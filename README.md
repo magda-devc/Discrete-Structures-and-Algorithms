@@ -1,4 +1,6 @@
-The labOne one file contains the questions for the Lab One Types.   
-Question one to four are the questions for the quiz one-Arrays                     
+Quiz Two is under the quizTwo folder
+
+
+
 SCT211-0031/2023                  
 Koech Magdalene Chebet 
